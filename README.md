@@ -22,7 +22,7 @@ An interactive and customizable **3D galaxy generator** built with [Three.js](ht
 
 ## 🖼️ Preview
 
-![Galaxy Screenshot] ![Screenshot 2025-07-03 113044](https://github.com/user-attachments/assets/139c3a91-a6d0-422a-af3c-99d1438093a0)
+![Screenshot 2025-07-03 113044](https://github.com/user-attachments/assets/139c3a91-a6d0-422a-af3c-99d1438093a0)
 
  
 
